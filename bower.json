@@ -1,0 +1,15 @@
+{
+  "name": "CEF2node",
+  "version": "0.0.1",
+  "main": "./js/main.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "readmeFilename": "README.md",
+  "description": "send messages in AppJS from CEF 'client' to node 'server'"
+}
